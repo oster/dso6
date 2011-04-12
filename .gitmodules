@@ -1,0 +1,6 @@
+[submodule "dso6-core.git"]
+	path = dso6-core.git
+	url = git@github.com:oster/dso6-core.git
+[submodule "dso6-web-php.git"]
+	path = dso6-web-php.git
+	url = git@github.com:oster/dso6-web-php.git
